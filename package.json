@@ -16,7 +16,7 @@
     "postcss-sort-media-queries": "^5.2.0",
     "vite": "^5.4.2"
   },
-  "author": "Bekir Duman <bekir_duman_26@hotmail.com>",
+  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "gh-pages": "^6.1.1",
